@@ -4,6 +4,6 @@ Hi! This javascript will help developers to get and display battery percentage o
 
 # Support In Browsers
 
-[Check Here in Caniuse](https://caniuse.com/battery-status)
+[Check Here to check browser support in Caniuse](https://caniuse.com/battery-status)
 
 ![enter image description here](https://www.labnol.org/static/ed8ea4556394d92f26de8cf447d3afe5/91293/battery-status-api.png)
