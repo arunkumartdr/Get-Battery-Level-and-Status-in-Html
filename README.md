@@ -1,6 +1,7 @@
 # GET BATTERY STATUS & PERCENTAGE IN HTML
 
 Hi! This javascript will help developers to get and display battery percentage of a user.
+  - Check index.html for code
 
 # Support In Browsers
 
